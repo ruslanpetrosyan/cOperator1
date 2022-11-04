@@ -63,7 +63,8 @@ public class Main {
             default:
                 System.out.println("Такого месяца не существует");
         }
-
+        System.out.println("------------------------------");
+        System.out.println("Прошу проверить ДЗ");
 
     }
 }
